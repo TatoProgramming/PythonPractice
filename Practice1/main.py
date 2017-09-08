@@ -305,5 +305,4 @@
 #
 
 # print("Hello World!")
-print("I am a gay boi and i like to party")
 #============Exercise===========================
